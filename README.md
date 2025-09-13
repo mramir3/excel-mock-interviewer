@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI-Powered Excel Mock Interviewer
 
 ## Overview
@@ -33,3 +34,6 @@ streamlit run app.py
 - PoC code (this repo)
 - Deployed app link (Streamlit Cloud recommended)
 - Sample transcripts in `/transcripts`
+=======
+# excel-mock-interviewer
+>>>>>>> 6b2df1a0030e9944f26fedd4ceedb395f266625f
