@@ -1,0 +1,38 @@
+{
+  "interview_id": "transcript_2025-09-12_21-45",
+  "candidate": "Test User",
+  "date": "2025-09-12",
+  "questions": [
+    {
+      "q": "How do you create a pivot table in Excel?",
+      "a": "You select your data range, go to the Insert tab, and choose Pivot Table.",
+      "evaluation": "Correct. The answer includes the right steps.",
+      "score": 4
+    },
+    {
+      "q": "Write a formula to calculate the average of cells A1 to A10.",
+      "a": "=SUM(A1:A10)",
+      "evaluation": "Incorrect. Candidate confused SUM with AVERAGE. Correct formula is =AVERAGE(A1:A10).",
+      "score": 2
+    },
+    {
+      "q": "What is the difference between VLOOKUP and INDEX-MATCH?",
+      "a": "VLOOKUP looks up values only from left to right, while INDEX-MATCH can work in any direction and is more flexible.",
+      "evaluation": "Strong answer. Demonstrates understanding of flexibility and directionality.",
+      "score": 5
+    },
+    {
+      "q": "Explain conditional formatting in Excel.",
+      "a": "Conditional formatting changes cell color based on conditions like values or formulas.",
+      "evaluation": "Correct. Could have added examples (e.g., highlighting negative values).",
+      "score": 4
+    }
+  ],
+  "final_report": {
+    "total_questions": 4,
+    "average_score": 3.75,
+    "strengths": "Strong conceptual understanding (pivot tables, INDEX-MATCH, conditional formatting).",
+    "weaknesses": "Needs more precision in formulas (AVERAGE vs SUM).",
+    "feedback": "Review Excel formulas carefully; otherwise excellent performance."
+  }
+}
